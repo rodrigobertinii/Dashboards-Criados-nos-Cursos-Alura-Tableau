@@ -62,7 +62,7 @@ Este repositório contém exemplos dos projetos realizados durante os cursos, di
   [Estantes de Livros](https://public.tableau.com/views/Livro045_17363740246140/EstantesdeLivros?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
   [Jogo de Dardos](https://public.tableau.com/views/Livro046_17363769473280/JogodeDardos?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-- **Tableau: gráficos simples e avançados**  
+- **Tableau: Como Trabalhar Com Mapas**  
   [Mapa de Cor Vendas](https://public.tableau.com/views/Livro052_17364463581340/MapaSimples2?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
   [Mapa Terremotos](https://public.tableau.com/views/Livro053_17364593263290/Planilha2?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
   [Distribuição das Chuvas](https://public.tableau.com/views/Livro054_17364606433410/DadosDistribuidos?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
