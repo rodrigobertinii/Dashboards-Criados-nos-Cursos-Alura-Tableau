@@ -62,11 +62,20 @@ Este repositório contém exemplos dos projetos realizados durante os cursos, di
   [Estantes de Livros](https://public.tableau.com/views/Livro045_17363740246140/EstantesdeLivros?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
   [Jogo de Dardos](https://public.tableau.com/views/Livro046_17363769473280/JogodeDardos?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-- **Tableau: como trabalhar com mapas**  
+- **Tableau: gráficos simples e avançados**  
   [Mapa de Cor Vendas](https://public.tableau.com/views/Livro052_17364463581340/MapaSimples2?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
   [Mapa Terremotos](https://public.tableau.com/views/Livro053_17364593263290/Planilha2?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
   [Distribuição das Chuvas](https://public.tableau.com/views/Livro054_17364606433410/DadosDistribuidos?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-  [Mapa de Calor (Densidade)](https://public.tableau.com/views/Livro055_17364617982370/Densidade?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  [Mapa de Calor (Densidade)](https://public.tableau.com/views/Livro055_17364617982370/Densidade?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+  [Gráfico de Proporção](https://public.tableau.com/views/Livro056_17364626016930/Proporcional?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+  [Mapa de Teia de Aranha](https://public.tableau.com/views/Livro057_17364726602250/TeiadeAranha?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+  [Mapa de Distâncias](https://public.tableau.com/views/Livro061_17365127053870/MapaDistncias?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+  [ShapeFile](https://public.tableau.com/views/Livro062_17365159930210/ShapeFile?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+  [ShapeFileBR](https://public.tableau.com/views/Livro063_17365181927420/ShapeFileBR?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+  [Mapas em Camadas](https://public.tableau.com/views/Livro064_17365214874770/MapasemCamadas?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+
+
+  
 
 - **Tableau: construindo dashboards e histórias**  
   [Vendas ao longo do Tempo](https://public.tableau.com/views/Livro070_17367681801750/DashboardFibonacci?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
