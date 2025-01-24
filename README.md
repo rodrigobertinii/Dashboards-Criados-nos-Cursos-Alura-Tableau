@@ -4,6 +4,9 @@
 
 O Tableau é uma ferramenta poderosa de Business Intelligence (BI) que facilita a análise de dados e a criação de visualizações interativas. Com ele, é possível transformar dados brutos em insights valiosos através de gráficos, dashboards e relatórios dinâmicos.
 
+![image](https://github.com/user-attachments/assets/6879bf0e-fe0d-4462-9c34-0135c88bb1b6)
+
+
 ## Objetivo
 
 Os cursos têm como objetivo ensinar desde os conceitos básicos até as técnicas avançadas de análise e visualização de dados com o Tableau, abordando temas como preparação de dados, gráficos complexos, mapas interativos e a criação de dashboards interativos.
@@ -95,3 +98,6 @@ Sinta-se à vontade para sugerir melhorias ou contribuir com novos dashboards!
 ## Licença
 
 Este projeto está licenciado sob a licença MIT.
+
+![image](https://github.com/user-attachments/assets/76b7b68d-527c-45f6-b909-f29766276f11)
+
